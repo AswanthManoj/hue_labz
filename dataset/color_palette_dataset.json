@@ -1,0 +1,4779 @@
+[
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "red"
+    },
+    "output": {
+      "primary-background": "254 242 242",
+      "primary-text": "159 7 18",
+      "primary-accent": "251 44 54",
+      "secondary-background": "255 201 201",
+      "secondary-text": "193 0 7",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "orange"
+    },
+    "output": {
+      "primary-background": "255 247 237",
+      "primary-text": "159 45 0",
+      "primary-accent": "255 105 0",
+      "secondary-background": "255 214 167",
+      "secondary-text": "202 53 0",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "amber"
+    },
+    "output": {
+      "primary-background": "254 243 198",
+      "primary-text": "151 60 0",
+      "primary-accent": "255 185 0",
+      "secondary-background": "254 230 133",
+      "secondary-text": "187 77 0",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "yellow"
+    },
+    "output": {
+      "primary-background": "255 240 133",
+      "primary-text": "137 75 0",
+      "primary-accent": "208 135 0",
+      "secondary-background": "255 240 133",
+      "secondary-text": "166 95 0",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "lime"
+    },
+    "output": {
+      "primary-background": "247 254 231",
+      "primary-text": "25 46 3",
+      "primary-accent": "154 230 0",
+      "secondary-background": "216 249 153",
+      "secondary-text": "73 125 0",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "green"
+    },
+    "output": {
+      "primary-background": "185 248 207",
+      "primary-text": "13 84 43",
+      "primary-accent": "5 223 114",
+      "secondary-background": "185 248 207",
+      "secondary-text": "0 130 54",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "emerald"
+    },
+    "output": {
+      "primary-background": "236 253 245",
+      "primary-text": "0 96 69",
+      "primary-accent": "0 212 146",
+      "secondary-background": "164 244 207",
+      "secondary-text": "0 122 85",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "teal"
+    },
+    "output": {
+      "primary-background": "240 253 250",
+      "primary-text": "11 79 74",
+      "primary-accent": "0 213 190",
+      "secondary-background": "150 247 228",
+      "secondary-text": "0 120 111",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "cyan"
+    },
+    "output": {
+      "primary-background": "236 254 255",
+      "primary-text": "16 78 100",
+      "primary-accent": "0 184 219",
+      "secondary-background": "162 244 253",
+      "secondary-text": "0 117 149",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "sky"
+    },
+    "output": {
+      "primary-background": "240 249 255",
+      "primary-text": "5 47 74",
+      "primary-accent": "0 132 209",
+      "secondary-background": "184 230 254",
+      "secondary-text": "0 105 168",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "blue"
+    },
+    "output": {
+      "primary-background": "190 219 255",
+      "primary-text": "25 60 184",
+      "primary-accent": "81 162 255",
+      "secondary-background": "190 219 255",
+      "secondary-text": "20 71 230",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "indigo"
+    },
+    "output": {
+      "primary-background": "198 210 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "97 95 255",
+      "secondary-background": "198 210 255",
+      "secondary-text": "67 45 215",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "violet"
+    },
+    "output": {
+      "primary-background": "221 214 255",
+      "primary-text": "47 13 104",
+      "primary-accent": "142 81 255",
+      "secondary-background": "221 214 255",
+      "secondary-text": "112 8 231",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "purple"
+    },
+    "output": {
+      "primary-background": "233 212 255",
+      "primary-text": "60 3 102",
+      "primary-accent": "152 16 250",
+      "secondary-background": "233 212 255",
+      "secondary-text": "130 0 219",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "250 232 255",
+      "primary-text": "138 1 148",
+      "primary-accent": "237 106 255",
+      "secondary-background": "246 207 255",
+      "secondary-text": "168 0 183",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "pink"
+    },
+    "output": {
+      "primary-background": "252 206 232",
+      "primary-text": "81 4 36",
+      "primary-accent": "246 51 154",
+      "secondary-background": "252 206 232",
+      "secondary-text": "198 0 92",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "monochromatic",
+      "primary_color": "rose"
+    },
+    "output": {
+      "primary-background": "255 241 242",
+      "primary-text": "139 8 54",
+      "primary-accent": "255 32 86",
+      "secondary-background": "255 204 211",
+      "secondary-text": "199 0 54",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "red"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "251 44 54",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "255 105 0",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "amber"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "254 154 0",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "240 177 0",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "124 207 0",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "0 201 80",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "0 188 125",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "0 187 167",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "0 184 219",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "0 166 244",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "43 127 255",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "97 95 255",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "violet"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "142 81 255",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "173 70 255",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "225 42 251",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "246 51 154",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "slate",
+      "accent_color": "rose"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "255 32 86",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "red"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "251 44 54",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "255 105 0",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "amber"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "254 154 0",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "240 177 0",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "124 207 0",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 201 80",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 188 125",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 187 167",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 184 219",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 166 244",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "43 127 255",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "97 95 255",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "violet"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "142 81 255",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "173 70 255",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "225 42 251",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "246 51 154",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "gray",
+      "accent_color": "rose"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "255 32 86",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "red"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "251 44 54",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "255 105 0",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "amber"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "254 154 0",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "240 177 0",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "124 207 0",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "0 201 80",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "0 188 125",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "0 187 167",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "0 184 219",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "0 166 244",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "43 127 255",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "97 95 255",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "violet"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "142 81 255",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "173 70 255",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "225 42 251",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "246 51 154",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "zinc",
+      "accent_color": "rose"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "24 24 27",
+      "primary-accent": "255 32 86",
+      "secondary-background": "244 244 245",
+      "secondary-text": "39 39 42",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "red"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "251 44 54",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "255 105 0",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "amber"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "254 154 0",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "240 177 0",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "124 207 0",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "0 201 80",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "0 188 125",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "0 187 167",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "0 184 219",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "0 166 244",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "43 127 255",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "97 95 255",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "violet"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "142 81 255",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "173 70 255",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "225 42 251",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "246 51 154",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "neutral",
+      "accent_color": "rose"
+    },
+    "output": {
+      "primary-background": "250 250 250",
+      "primary-text": "23 23 23",
+      "primary-accent": "255 32 86",
+      "secondary-background": "245 245 245",
+      "secondary-text": "38 38 38",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "red"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "251 44 54",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "255 105 0",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "amber"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "254 154 0",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "240 177 0",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "124 207 0",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "0 201 80",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "0 188 125",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "0 187 167",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "0 184 219",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "0 166 244",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "43 127 255",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "97 95 255",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "violet"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "142 81 255",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "173 70 255",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "225 42 251",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "246 51 154",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "neutral_with_accent",
+      "neutral_color": "stone",
+      "accent_color": "rose"
+    },
+    "output": {
+      "primary-background": "250 250 249",
+      "primary-text": "28 25 23",
+      "primary-accent": "255 32 86",
+      "secondary-background": "245 245 244",
+      "secondary-text": "41 37 36",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "red",
+      "analogous_colors": [
+        "rose",
+        "orange"
+      ]
+    },
+    "output": {
+      "primary-background": "254 242 242",
+      "primary-text": "130 24 26",
+      "primary-accent": "255 32 86",
+      "secondary-background": "255 226 226",
+      "secondary-text": "159 7 18",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "orange",
+      "analogous_colors": [
+        "red",
+        "amber"
+      ]
+    },
+    "output": {
+      "primary-background": "255 247 237",
+      "primary-text": "126 42 12",
+      "primary-accent": "251 44 54",
+      "secondary-background": "255 237 212",
+      "secondary-text": "159 45 0",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "amber",
+      "analogous_colors": [
+        "orange",
+        "yellow"
+      ]
+    },
+    "output": {
+      "primary-background": "255 251 235",
+      "primary-text": "123 51 6",
+      "primary-accent": "255 105 0",
+      "secondary-background": "254 243 198",
+      "secondary-text": "151 60 0",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "yellow",
+      "analogous_colors": [
+        "amber",
+        "lime"
+      ]
+    },
+    "output": {
+      "primary-background": "254 252 232",
+      "primary-text": "115 62 10",
+      "primary-accent": "254 154 0",
+      "secondary-background": "254 249 194",
+      "secondary-text": "137 75 0",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "lime",
+      "analogous_colors": [
+        "yellow",
+        "green"
+      ]
+    },
+    "output": {
+      "primary-background": "247 254 231",
+      "primary-text": "53 83 14",
+      "primary-accent": "240 177 0",
+      "secondary-background": "236 252 202",
+      "secondary-text": "60 99 0",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "green",
+      "analogous_colors": [
+        "lime",
+        "emerald"
+      ]
+    },
+    "output": {
+      "primary-background": "240 253 244",
+      "primary-text": "13 84 43",
+      "primary-accent": "124 207 0",
+      "secondary-background": "220 252 231",
+      "secondary-text": "1 102 48",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "emerald",
+      "analogous_colors": [
+        "green",
+        "teal"
+      ]
+    },
+    "output": {
+      "primary-background": "236 253 245",
+      "primary-text": "0 79 59",
+      "primary-accent": "0 201 80",
+      "secondary-background": "208 250 229",
+      "secondary-text": "0 96 69",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "teal",
+      "analogous_colors": [
+        "emerald",
+        "cyan"
+      ]
+    },
+    "output": {
+      "primary-background": "240 253 250",
+      "primary-text": "11 79 74",
+      "primary-accent": "0 188 125",
+      "secondary-background": "203 251 241",
+      "secondary-text": "0 95 90",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "cyan",
+      "analogous_colors": [
+        "teal",
+        "sky"
+      ]
+    },
+    "output": {
+      "primary-background": "236 254 255",
+      "primary-text": "16 78 100",
+      "primary-accent": "0 187 167",
+      "secondary-background": "206 250 254",
+      "secondary-text": "0 95 120",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "sky",
+      "analogous_colors": [
+        "cyan",
+        "blue"
+      ]
+    },
+    "output": {
+      "primary-background": "240 249 255",
+      "primary-text": "2 74 112",
+      "primary-accent": "0 184 219",
+      "secondary-background": "223 242 254",
+      "secondary-text": "0 89 138",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "blue",
+      "analogous_colors": [
+        "sky",
+        "indigo"
+      ]
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "0 166 244",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "indigo",
+      "analogous_colors": [
+        "blue",
+        "violet"
+      ]
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "43 127 255",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "violet",
+      "analogous_colors": [
+        "indigo",
+        "purple"
+      ]
+    },
+    "output": {
+      "primary-background": "245 243 255",
+      "primary-text": "77 23 154",
+      "primary-accent": "97 95 255",
+      "secondary-background": "237 233 254",
+      "secondary-text": "93 14 192",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "purple",
+      "analogous_colors": [
+        "violet",
+        "fuchsia"
+      ]
+    },
+    "output": {
+      "primary-background": "250 245 255",
+      "primary-text": "89 22 139",
+      "primary-accent": "142 81 255",
+      "secondary-background": "243 232 255",
+      "secondary-text": "110 17 176",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "fuchsia",
+      "analogous_colors": [
+        "purple",
+        "pink"
+      ]
+    },
+    "output": {
+      "primary-background": "253 244 255",
+      "primary-text": "114 19 120",
+      "primary-accent": "173 70 255",
+      "secondary-background": "250 232 255",
+      "secondary-text": "138 1 148",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "pink",
+      "analogous_colors": [
+        "fuchsia",
+        "rose"
+      ]
+    },
+    "output": {
+      "primary-background": "253 242 248",
+      "primary-text": "134 16 67",
+      "primary-accent": "225 42 251",
+      "secondary-background": "252 231 243",
+      "secondary-text": "163 0 76",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "analogous",
+      "primary_color": "rose",
+      "analogous_colors": [
+        "pink",
+        "red"
+      ]
+    },
+    "output": {
+      "primary-background": "255 241 242",
+      "primary-text": "139 8 54",
+      "primary-accent": "246 51 154",
+      "secondary-background": "255 228 230",
+      "secondary-text": "165 0 54",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "red",
+      "complementary_color": "cyan"
+    },
+    "output": {
+      "primary-background": "254 242 242",
+      "primary-text": "130 24 26",
+      "primary-accent": "0 184 219",
+      "secondary-background": "255 226 226",
+      "secondary-text": "159 7 18",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "orange",
+      "complementary_color": "sky"
+    },
+    "output": {
+      "primary-background": "255 247 237",
+      "primary-text": "126 42 12",
+      "primary-accent": "0 166 244",
+      "secondary-background": "255 237 212",
+      "secondary-text": "159 45 0",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "amber",
+      "complementary_color": "blue"
+    },
+    "output": {
+      "primary-background": "255 251 235",
+      "primary-text": "123 51 6",
+      "primary-accent": "43 127 255",
+      "secondary-background": "254 243 198",
+      "secondary-text": "151 60 0",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "yellow",
+      "complementary_color": "indigo"
+    },
+    "output": {
+      "primary-background": "254 252 232",
+      "primary-text": "115 62 10",
+      "primary-accent": "97 95 255",
+      "secondary-background": "254 249 194",
+      "secondary-text": "137 75 0",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "lime",
+      "complementary_color": "violet"
+    },
+    "output": {
+      "primary-background": "247 254 231",
+      "primary-text": "53 83 14",
+      "primary-accent": "142 81 255",
+      "secondary-background": "236 252 202",
+      "secondary-text": "60 99 0",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "green",
+      "complementary_color": "purple"
+    },
+    "output": {
+      "primary-background": "240 253 244",
+      "primary-text": "13 84 43",
+      "primary-accent": "173 70 255",
+      "secondary-background": "220 252 231",
+      "secondary-text": "1 102 48",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "emerald",
+      "complementary_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "236 253 245",
+      "primary-text": "0 79 59",
+      "primary-accent": "225 42 251",
+      "secondary-background": "208 250 229",
+      "secondary-text": "0 96 69",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "teal",
+      "complementary_color": "pink"
+    },
+    "output": {
+      "primary-background": "240 253 250",
+      "primary-text": "11 79 74",
+      "primary-accent": "246 51 154",
+      "secondary-background": "203 251 241",
+      "secondary-text": "0 95 90",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "cyan",
+      "complementary_color": "rose"
+    },
+    "output": {
+      "primary-background": "236 254 255",
+      "primary-text": "16 78 100",
+      "primary-accent": "255 32 86",
+      "secondary-background": "206 250 254",
+      "secondary-text": "0 95 120",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "sky",
+      "complementary_color": "red"
+    },
+    "output": {
+      "primary-background": "240 249 255",
+      "primary-text": "2 74 112",
+      "primary-accent": "251 44 54",
+      "secondary-background": "223 242 254",
+      "secondary-text": "0 89 138",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "blue",
+      "complementary_color": "orange"
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "255 105 0",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "indigo",
+      "complementary_color": "amber"
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "254 154 0",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "violet",
+      "complementary_color": "yellow"
+    },
+    "output": {
+      "primary-background": "245 243 255",
+      "primary-text": "77 23 154",
+      "primary-accent": "240 177 0",
+      "secondary-background": "237 233 254",
+      "secondary-text": "93 14 192",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "purple",
+      "complementary_color": "lime"
+    },
+    "output": {
+      "primary-background": "250 245 255",
+      "primary-text": "89 22 139",
+      "primary-accent": "124 207 0",
+      "secondary-background": "243 232 255",
+      "secondary-text": "110 17 176",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "fuchsia",
+      "complementary_color": "green"
+    },
+    "output": {
+      "primary-background": "253 244 255",
+      "primary-text": "114 19 120",
+      "primary-accent": "0 201 80",
+      "secondary-background": "250 232 255",
+      "secondary-text": "138 1 148",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "pink",
+      "complementary_color": "emerald"
+    },
+    "output": {
+      "primary-background": "253 242 248",
+      "primary-text": "134 16 67",
+      "primary-accent": "0 188 125",
+      "secondary-background": "252 231 243",
+      "secondary-text": "163 0 76",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "complementary",
+      "primary_color": "rose",
+      "complementary_color": "teal"
+    },
+    "output": {
+      "primary-background": "255 241 242",
+      "primary-text": "139 8 54",
+      "primary-accent": "0 187 167",
+      "secondary-background": "255 228 230",
+      "secondary-text": "165 0 54",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "red",
+        "green",
+        "indigo"
+      ]
+    },
+    "output": {
+      "primary-background": "254 242 242",
+      "primary-text": "130 24 26",
+      "primary-accent": "0 201 80",
+      "secondary-background": "255 226 226",
+      "secondary-text": "159 7 18",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "orange",
+        "emerald",
+        "violet"
+      ]
+    },
+    "output": {
+      "primary-background": "255 247 237",
+      "primary-text": "126 42 12",
+      "primary-accent": "0 188 125",
+      "secondary-background": "255 237 212",
+      "secondary-text": "159 45 0",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "amber",
+        "teal",
+        "purple"
+      ]
+    },
+    "output": {
+      "primary-background": "255 251 235",
+      "primary-text": "123 51 6",
+      "primary-accent": "0 187 167",
+      "secondary-background": "254 243 198",
+      "secondary-text": "151 60 0",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "yellow",
+        "cyan",
+        "fuchsia"
+      ]
+    },
+    "output": {
+      "primary-background": "254 252 232",
+      "primary-text": "115 62 10",
+      "primary-accent": "0 184 219",
+      "secondary-background": "254 249 194",
+      "secondary-text": "137 75 0",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "lime",
+        "sky",
+        "pink"
+      ]
+    },
+    "output": {
+      "primary-background": "247 254 231",
+      "primary-text": "53 83 14",
+      "primary-accent": "0 166 244",
+      "secondary-background": "236 252 202",
+      "secondary-text": "60 99 0",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "green",
+        "blue",
+        "rose"
+      ]
+    },
+    "output": {
+      "primary-background": "240 253 244",
+      "primary-text": "13 84 43",
+      "primary-accent": "43 127 255",
+      "secondary-background": "220 252 231",
+      "secondary-text": "1 102 48",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "emerald",
+        "indigo",
+        "red"
+      ]
+    },
+    "output": {
+      "primary-background": "236 253 245",
+      "primary-text": "0 79 59",
+      "primary-accent": "97 95 255",
+      "secondary-background": "208 250 229",
+      "secondary-text": "0 96 69",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "teal",
+        "violet",
+        "orange"
+      ]
+    },
+    "output": {
+      "primary-background": "240 253 250",
+      "primary-text": "11 79 74",
+      "primary-accent": "142 81 255",
+      "secondary-background": "203 251 241",
+      "secondary-text": "0 95 90",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "cyan",
+        "purple",
+        "amber"
+      ]
+    },
+    "output": {
+      "primary-background": "236 254 255",
+      "primary-text": "16 78 100",
+      "primary-accent": "173 70 255",
+      "secondary-background": "206 250 254",
+      "secondary-text": "0 95 120",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "sky",
+        "fuchsia",
+        "yellow"
+      ]
+    },
+    "output": {
+      "primary-background": "240 249 255",
+      "primary-text": "2 74 112",
+      "primary-accent": "225 42 251",
+      "secondary-background": "223 242 254",
+      "secondary-text": "0 89 138",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "blue",
+        "pink",
+        "lime"
+      ]
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "246 51 154",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "indigo",
+        "rose",
+        "green"
+      ]
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "255 32 86",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "violet",
+        "red",
+        "emerald"
+      ]
+    },
+    "output": {
+      "primary-background": "245 243 255",
+      "primary-text": "77 23 154",
+      "primary-accent": "251 44 54",
+      "secondary-background": "237 233 254",
+      "secondary-text": "93 14 192",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "purple",
+        "orange",
+        "teal"
+      ]
+    },
+    "output": {
+      "primary-background": "250 245 255",
+      "primary-text": "89 22 139",
+      "primary-accent": "255 105 0",
+      "secondary-background": "243 232 255",
+      "secondary-text": "110 17 176",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "fuchsia",
+        "amber",
+        "cyan"
+      ]
+    },
+    "output": {
+      "primary-background": "253 244 255",
+      "primary-text": "114 19 120",
+      "primary-accent": "254 154 0",
+      "secondary-background": "250 232 255",
+      "secondary-text": "138 1 148",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "pink",
+        "yellow",
+        "sky"
+      ]
+    },
+    "output": {
+      "primary-background": "253 242 248",
+      "primary-text": "134 16 67",
+      "primary-accent": "240 177 0",
+      "secondary-background": "252 231 243",
+      "secondary-text": "163 0 76",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "triadic",
+      "colors": [
+        "rose",
+        "lime",
+        "blue"
+      ]
+    },
+    "output": {
+      "primary-background": "255 241 242",
+      "primary-text": "139 8 54",
+      "primary-accent": "124 207 0",
+      "secondary-background": "255 228 230",
+      "secondary-text": "165 0 54",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "red",
+        "amber",
+        "cyan",
+        "blue"
+      ]
+    },
+    "output": {
+      "primary-background": "254 242 242",
+      "primary-text": "130 24 26",
+      "primary-accent": "254 154 0",
+      "secondary-background": "206 250 254",
+      "secondary-text": "0 95 120",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "orange",
+        "yellow",
+        "sky",
+        "indigo"
+      ]
+    },
+    "output": {
+      "primary-background": "255 247 237",
+      "primary-text": "126 42 12",
+      "primary-accent": "240 177 0",
+      "secondary-background": "223 242 254",
+      "secondary-text": "0 89 138",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "amber",
+        "lime",
+        "blue",
+        "violet"
+      ]
+    },
+    "output": {
+      "primary-background": "255 251 235",
+      "primary-text": "123 51 6",
+      "primary-accent": "124 207 0",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "yellow",
+        "green",
+        "indigo",
+        "purple"
+      ]
+    },
+    "output": {
+      "primary-background": "254 252 232",
+      "primary-text": "115 62 10",
+      "primary-accent": "0 201 80",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "lime",
+        "emerald",
+        "violet",
+        "fuchsia"
+      ]
+    },
+    "output": {
+      "primary-background": "247 254 231",
+      "primary-text": "53 83 14",
+      "primary-accent": "0 188 125",
+      "secondary-background": "237 233 254",
+      "secondary-text": "93 14 192",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "green",
+        "teal",
+        "purple",
+        "pink"
+      ]
+    },
+    "output": {
+      "primary-background": "240 253 244",
+      "primary-text": "13 84 43",
+      "primary-accent": "0 187 167",
+      "secondary-background": "243 232 255",
+      "secondary-text": "110 17 176",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "emerald",
+        "cyan",
+        "fuchsia",
+        "rose"
+      ]
+    },
+    "output": {
+      "primary-background": "236 253 245",
+      "primary-text": "0 79 59",
+      "primary-accent": "0 184 219",
+      "secondary-background": "250 232 255",
+      "secondary-text": "138 1 148",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "teal",
+        "sky",
+        "pink",
+        "red"
+      ]
+    },
+    "output": {
+      "primary-background": "240 253 250",
+      "primary-text": "11 79 74",
+      "primary-accent": "0 166 244",
+      "secondary-background": "252 231 243",
+      "secondary-text": "163 0 76",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "cyan",
+        "blue",
+        "rose",
+        "orange"
+      ]
+    },
+    "output": {
+      "primary-background": "236 254 255",
+      "primary-text": "16 78 100",
+      "primary-accent": "43 127 255",
+      "secondary-background": "255 228 230",
+      "secondary-text": "165 0 54",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "sky",
+        "indigo",
+        "red",
+        "amber"
+      ]
+    },
+    "output": {
+      "primary-background": "240 249 255",
+      "primary-text": "2 74 112",
+      "primary-accent": "97 95 255",
+      "secondary-background": "255 226 226",
+      "secondary-text": "159 7 18",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "blue",
+        "violet",
+        "orange",
+        "yellow"
+      ]
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "142 81 255",
+      "secondary-background": "255 237 212",
+      "secondary-text": "159 45 0",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "indigo",
+        "purple",
+        "amber",
+        "lime"
+      ]
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "173 70 255",
+      "secondary-background": "254 243 198",
+      "secondary-text": "151 60 0",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "violet",
+        "fuchsia",
+        "yellow",
+        "green"
+      ]
+    },
+    "output": {
+      "primary-background": "245 243 255",
+      "primary-text": "77 23 154",
+      "primary-accent": "225 42 251",
+      "secondary-background": "254 249 194",
+      "secondary-text": "137 75 0",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "purple",
+        "pink",
+        "lime",
+        "emerald"
+      ]
+    },
+    "output": {
+      "primary-background": "250 245 255",
+      "primary-text": "89 22 139",
+      "primary-accent": "246 51 154",
+      "secondary-background": "236 252 202",
+      "secondary-text": "60 99 0",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "fuchsia",
+        "rose",
+        "green",
+        "teal"
+      ]
+    },
+    "output": {
+      "primary-background": "253 244 255",
+      "primary-text": "114 19 120",
+      "primary-accent": "255 32 86",
+      "secondary-background": "220 252 231",
+      "secondary-text": "1 102 48",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "pink",
+        "red",
+        "emerald",
+        "cyan"
+      ]
+    },
+    "output": {
+      "primary-background": "253 242 248",
+      "primary-text": "134 16 67",
+      "primary-accent": "251 44 54",
+      "secondary-background": "208 250 229",
+      "secondary-text": "0 96 69",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "tetradic",
+      "colors": [
+        "rose",
+        "orange",
+        "teal",
+        "sky"
+      ]
+    },
+    "output": {
+      "primary-background": "255 241 242",
+      "primary-text": "139 8 54",
+      "primary-accent": "255 105 0",
+      "secondary-background": "203 251 241",
+      "secondary-text": "0 95 90",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "red",
+      "complement_analogous": [
+        "teal",
+        "sky"
+      ]
+    },
+    "output": {
+      "primary-background": "254 242 242",
+      "primary-text": "130 24 26",
+      "primary-accent": "0 187 167",
+      "secondary-background": "255 226 226",
+      "secondary-text": "159 7 18",
+      "secondary-accent": "0 132 209"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "orange",
+      "complement_analogous": [
+        "cyan",
+        "blue"
+      ]
+    },
+    "output": {
+      "primary-background": "255 247 237",
+      "primary-text": "126 42 12",
+      "primary-accent": "0 184 219",
+      "secondary-background": "255 237 212",
+      "secondary-text": "159 45 0",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "amber",
+      "complement_analogous": [
+        "sky",
+        "indigo"
+      ]
+    },
+    "output": {
+      "primary-background": "255 251 235",
+      "primary-text": "123 51 6",
+      "primary-accent": "0 166 244",
+      "secondary-background": "254 243 198",
+      "secondary-text": "151 60 0",
+      "secondary-accent": "79 57 246"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "yellow",
+      "complement_analogous": [
+        "blue",
+        "violet"
+      ]
+    },
+    "output": {
+      "primary-background": "254 252 232",
+      "primary-text": "115 62 10",
+      "primary-accent": "43 127 255",
+      "secondary-background": "254 249 194",
+      "secondary-text": "137 75 0",
+      "secondary-accent": "127 34 254"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "lime",
+      "complement_analogous": [
+        "indigo",
+        "purple"
+      ]
+    },
+    "output": {
+      "primary-background": "247 254 231",
+      "primary-text": "53 83 14",
+      "primary-accent": "97 95 255",
+      "secondary-background": "236 252 202",
+      "secondary-text": "60 99 0",
+      "secondary-accent": "152 16 250"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "green",
+      "complement_analogous": [
+        "violet",
+        "fuchsia"
+      ]
+    },
+    "output": {
+      "primary-background": "240 253 244",
+      "primary-text": "13 84 43",
+      "primary-accent": "142 81 255",
+      "secondary-background": "220 252 231",
+      "secondary-text": "1 102 48",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "emerald",
+      "complement_analogous": [
+        "purple",
+        "pink"
+      ]
+    },
+    "output": {
+      "primary-background": "236 253 245",
+      "primary-text": "0 79 59",
+      "primary-accent": "173 70 255",
+      "secondary-background": "208 250 229",
+      "secondary-text": "0 96 69",
+      "secondary-accent": "230 0 118"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "teal",
+      "complement_analogous": [
+        "fuchsia",
+        "rose"
+      ]
+    },
+    "output": {
+      "primary-background": "240 253 250",
+      "primary-text": "11 79 74",
+      "primary-accent": "225 42 251",
+      "secondary-background": "203 251 241",
+      "secondary-text": "0 95 90",
+      "secondary-accent": "236 0 63"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "cyan",
+      "complement_analogous": [
+        "pink",
+        "red"
+      ]
+    },
+    "output": {
+      "primary-background": "236 254 255",
+      "primary-text": "16 78 100",
+      "primary-accent": "246 51 154",
+      "secondary-background": "206 250 254",
+      "secondary-text": "0 95 120",
+      "secondary-accent": "231 0 11"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "sky",
+      "complement_analogous": [
+        "rose",
+        "orange"
+      ]
+    },
+    "output": {
+      "primary-background": "240 249 255",
+      "primary-text": "2 74 112",
+      "primary-accent": "255 32 86",
+      "secondary-background": "223 242 254",
+      "secondary-text": "0 89 138",
+      "secondary-accent": "245 73 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "blue",
+      "complement_analogous": [
+        "red",
+        "amber"
+      ]
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "251 44 54",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "225 113 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "indigo",
+      "complement_analogous": [
+        "orange",
+        "yellow"
+      ]
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "255 105 0",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "violet",
+      "complement_analogous": [
+        "amber",
+        "lime"
+      ]
+    },
+    "output": {
+      "primary-background": "245 243 255",
+      "primary-text": "77 23 154",
+      "primary-accent": "254 154 0",
+      "secondary-background": "237 233 254",
+      "secondary-text": "93 14 192",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "purple",
+      "complement_analogous": [
+        "yellow",
+        "green"
+      ]
+    },
+    "output": {
+      "primary-background": "250 245 255",
+      "primary-text": "89 22 139",
+      "primary-accent": "240 177 0",
+      "secondary-background": "243 232 255",
+      "secondary-text": "110 17 176",
+      "secondary-accent": "0 166 62"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "fuchsia",
+      "complement_analogous": [
+        "lime",
+        "emerald"
+      ]
+    },
+    "output": {
+      "primary-background": "253 244 255",
+      "primary-text": "114 19 120",
+      "primary-accent": "124 207 0",
+      "secondary-background": "250 232 255",
+      "secondary-text": "138 1 148",
+      "secondary-accent": "0 153 102"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "pink",
+      "complement_analogous": [
+        "green",
+        "teal"
+      ]
+    },
+    "output": {
+      "primary-background": "253 242 248",
+      "primary-text": "134 16 67",
+      "primary-accent": "0 201 80",
+      "secondary-background": "252 231 243",
+      "secondary-text": "163 0 76",
+      "secondary-accent": "0 150 137"
+    }
+  },
+  {
+    "input": {
+      "strategy": "split_complementary",
+      "primary_color": "rose",
+      "complement_analogous": [
+        "emerald",
+        "cyan"
+      ]
+    },
+    "output": {
+      "primary-background": "255 241 242",
+      "primary-text": "139 8 54",
+      "primary-accent": "0 188 125",
+      "secondary-background": "255 228 230",
+      "secondary-text": "165 0 54",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "red"
+    },
+    "output": {
+      "primary-background": "254 242 242",
+      "primary-text": "16 24 40",
+      "primary-accent": "231 0 11",
+      "secondary-background": "255 201 201",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "193 0 7"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "orange"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "16 24 40",
+      "primary-accent": "245 73 0",
+      "secondary-background": "255 214 167",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "202 53 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "amber"
+    },
+    "output": {
+      "primary-background": "254 243 198",
+      "primary-text": "16 24 40",
+      "primary-accent": "225 113 0",
+      "secondary-background": "254 230 133",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "187 77 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "yellow"
+    },
+    "output": {
+      "primary-background": "254 252 232",
+      "primary-text": "16 24 40",
+      "primary-accent": "208 135 0",
+      "secondary-background": "255 240 133",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "166 95 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "lime"
+    },
+    "output": {
+      "primary-background": "236 252 202",
+      "primary-text": "16 24 40",
+      "primary-accent": "94 165 0",
+      "secondary-background": "216 249 153",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "73 125 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "green"
+    },
+    "output": {
+      "primary-background": "185 248 207",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 166 62",
+      "secondary-background": "185 248 207",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 130 54"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "emerald"
+    },
+    "output": {
+      "primary-background": "164 244 207",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 153 102",
+      "secondary-background": "164 244 207",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 122 85"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "teal"
+    },
+    "output": {
+      "primary-background": "150 247 228",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 150 137",
+      "secondary-background": "150 247 228",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 120 111"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "cyan"
+    },
+    "output": {
+      "primary-background": "236 254 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 146 184",
+      "secondary-background": "162 244 253",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 117 149"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "sky"
+    },
+    "output": {
+      "primary-background": "184 230 254",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 132 209",
+      "secondary-background": "184 230 254",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 105 168"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "blue"
+    },
+    "output": {
+      "primary-background": "219 234 254",
+      "primary-text": "16 24 40",
+      "primary-accent": "21 93 252",
+      "secondary-background": "190 219 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "20 71 230"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "indigo"
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "79 57 246",
+      "secondary-background": "198 210 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "67 45 215"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "violet"
+    },
+    "output": {
+      "primary-background": "221 214 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "127 34 254",
+      "secondary-background": "221 214 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "112 8 231"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "purple"
+    },
+    "output": {
+      "primary-background": "250 245 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "152 16 250",
+      "secondary-background": "233 212 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "130 0 219"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "246 207 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "200 0 222",
+      "secondary-background": "246 207 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "168 0 183"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "pink"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "16 24 40",
+      "primary-accent": "230 0 118",
+      "secondary-background": "252 206 232",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "198 0 92"
+    }
+  },
+  {
+    "input": {
+      "strategy": "colored_background",
+      "background_color": "rose"
+    },
+    "output": {
+      "primary-background": "255 204 211",
+      "primary-text": "16 24 40",
+      "primary-accent": "236 0 63",
+      "secondary-background": "255 204 211",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "199 0 54"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "red",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "159 7 18",
+      "primary-text": "254 242 242",
+      "primary-accent": "194 122 255",
+      "secondary-background": "159 7 18",
+      "secondary-text": "255 226 226",
+      "secondary-accent": "173 70 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "orange",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "159 45 0",
+      "primary-text": "255 247 237",
+      "primary-accent": "81 162 255",
+      "secondary-background": "159 45 0",
+      "secondary-text": "255 237 212",
+      "secondary-accent": "43 127 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "amber",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "70 25 1",
+      "primary-text": "255 251 235",
+      "primary-accent": "255 137 4",
+      "secondary-background": "151 60 0",
+      "secondary-text": "254 243 198",
+      "secondary-accent": "255 105 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "yellow",
+      "accent_color": "amber"
+    },
+    "output": {
+      "primary-background": "115 62 10",
+      "primary-text": "254 252 232",
+      "primary-accent": "255 185 0",
+      "secondary-background": "137 75 0",
+      "secondary-text": "254 249 194",
+      "secondary-accent": "254 154 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "lime",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "53 83 14",
+      "primary-text": "247 254 231",
+      "primary-accent": "0 211 242",
+      "secondary-background": "60 99 0",
+      "secondary-text": "236 252 202",
+      "secondary-accent": "0 184 219"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "green",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "13 84 43",
+      "primary-text": "240 253 244",
+      "primary-accent": "0 213 190",
+      "secondary-background": "1 102 48",
+      "secondary-text": "220 252 231",
+      "secondary-accent": "0 187 167"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "emerald",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "0 79 59",
+      "primary-text": "236 253 245",
+      "primary-accent": "0 212 146",
+      "secondary-background": "0 96 69",
+      "secondary-text": "208 250 229",
+      "secondary-accent": "0 188 125"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "teal",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "2 47 46",
+      "primary-text": "240 253 250",
+      "primary-accent": "194 122 255",
+      "secondary-background": "0 95 90",
+      "secondary-text": "203 251 241",
+      "secondary-accent": "173 70 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "cyan",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "0 95 120",
+      "primary-text": "236 254 255",
+      "primary-accent": "0 188 255",
+      "secondary-background": "0 95 120",
+      "secondary-text": "206 250 254",
+      "secondary-accent": "0 166 244"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "sky",
+      "accent_color": "red"
+    },
+    "output": {
+      "primary-background": "0 89 138",
+      "primary-text": "240 249 255",
+      "primary-accent": "255 100 103",
+      "secondary-background": "0 89 138",
+      "secondary-text": "223 242 254",
+      "secondary-accent": "251 44 54"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "blue",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "22 36 86",
+      "primary-text": "239 246 255",
+      "primary-accent": "255 137 4",
+      "secondary-background": "25 60 184",
+      "secondary-text": "219 234 254",
+      "secondary-accent": "255 105 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "indigo",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "49 44 133",
+      "primary-text": "238 242 255",
+      "primary-accent": "81 162 255",
+      "secondary-background": "55 42 172",
+      "secondary-text": "224 231 255",
+      "secondary-accent": "43 127 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "violet",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "77 23 154",
+      "primary-text": "245 243 255",
+      "primary-accent": "251 100 182",
+      "secondary-background": "93 14 192",
+      "secondary-text": "237 233 254",
+      "secondary-accent": "246 51 154"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "purple",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "110 17 176",
+      "primary-text": "250 245 255",
+      "primary-accent": "0 213 190",
+      "secondary-background": "110 17 176",
+      "secondary-text": "243 232 255",
+      "secondary-accent": "0 187 167"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "fuchsia",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "75 0 79",
+      "primary-text": "253 244 255",
+      "primary-accent": "5 223 114",
+      "secondary-background": "138 1 148",
+      "secondary-text": "250 232 255",
+      "secondary-accent": "0 201 80"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "pink",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "134 16 67",
+      "primary-text": "253 242 248",
+      "primary-accent": "251 100 182",
+      "secondary-background": "163 0 76",
+      "secondary-text": "252 231 243",
+      "secondary-accent": "246 51 154"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "rose",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "139 8 54",
+      "primary-text": "255 241 242",
+      "primary-accent": "0 188 255",
+      "secondary-background": "165 0 54",
+      "secondary-text": "255 228 230",
+      "secondary-accent": "0 166 244"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "slate",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "29 41 61",
+      "primary-text": "248 250 252",
+      "primary-accent": "255 137 4",
+      "secondary-background": "29 41 61",
+      "secondary-text": "241 245 249",
+      "secondary-accent": "255 105 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "gray",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "3 7 18",
+      "primary-text": "249 250 251",
+      "primary-accent": "0 211 242",
+      "secondary-background": "30 41 57",
+      "secondary-text": "243 244 246",
+      "secondary-accent": "0 184 219"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "zinc",
+      "accent_color": "rose"
+    },
+    "output": {
+      "primary-background": "39 39 42",
+      "primary-text": "250 250 250",
+      "primary-accent": "255 99 126",
+      "secondary-background": "39 39 42",
+      "secondary-text": "244 244 245",
+      "secondary-accent": "255 32 86"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "neutral",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "23 23 23",
+      "primary-text": "250 250 250",
+      "primary-accent": "81 162 255",
+      "secondary-background": "38 38 38",
+      "secondary-text": "245 245 245",
+      "secondary-accent": "43 127 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "dark_mode",
+      "background_color": "stone",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "28 25 23",
+      "primary-text": "250 250 249",
+      "primary-accent": "0 212 146",
+      "secondary-background": "41 37 36",
+      "secondary-text": "245 245 244",
+      "secondary-accent": "0 188 125"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "sky",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "223 242 254",
+      "primary-text": "30 41 57",
+      "primary-accent": "253 165 213",
+      "secondary-background": "240 249 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "251 100 182"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "sky",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "223 242 254",
+      "primary-text": "30 41 57",
+      "primary-accent": "218 178 255",
+      "secondary-background": "240 249 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "194 122 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "sky",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "223 242 254",
+      "primary-text": "30 41 57",
+      "primary-accent": "123 241 168",
+      "secondary-background": "240 249 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "5 223 114"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "sky",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "223 242 254",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 223 32",
+      "secondary-background": "240 249 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "253 199 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "sky",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "223 242 254",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 184 106",
+      "secondary-background": "240 249 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "255 137 4"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "pink",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "30 41 57",
+      "primary-accent": "116 212 255",
+      "secondary-background": "253 242 248",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "0 188 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "pink",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "30 41 57",
+      "primary-accent": "218 178 255",
+      "secondary-background": "253 242 248",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "194 122 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "pink",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "30 41 57",
+      "primary-accent": "123 241 168",
+      "secondary-background": "253 242 248",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "5 223 114"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "pink",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 223 32",
+      "secondary-background": "253 242 248",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "253 199 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "pink",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 184 106",
+      "secondary-background": "253 242 248",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "255 137 4"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "purple",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "30 41 57",
+      "primary-accent": "116 212 255",
+      "secondary-background": "250 245 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "0 188 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "purple",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "30 41 57",
+      "primary-accent": "253 165 213",
+      "secondary-background": "250 245 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "251 100 182"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "purple",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "30 41 57",
+      "primary-accent": "123 241 168",
+      "secondary-background": "250 245 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "5 223 114"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "purple",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 223 32",
+      "secondary-background": "250 245 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "253 199 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "purple",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 184 106",
+      "secondary-background": "250 245 255",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "255 137 4"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "green",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "220 252 231",
+      "primary-text": "30 41 57",
+      "primary-accent": "116 212 255",
+      "secondary-background": "240 253 244",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "0 188 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "green",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "220 252 231",
+      "primary-text": "30 41 57",
+      "primary-accent": "253 165 213",
+      "secondary-background": "240 253 244",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "251 100 182"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "green",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "220 252 231",
+      "primary-text": "30 41 57",
+      "primary-accent": "218 178 255",
+      "secondary-background": "240 253 244",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "194 122 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "green",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "220 252 231",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 223 32",
+      "secondary-background": "240 253 244",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "253 199 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "green",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "220 252 231",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 184 106",
+      "secondary-background": "240 253 244",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "255 137 4"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "yellow",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "254 249 194",
+      "primary-text": "30 41 57",
+      "primary-accent": "116 212 255",
+      "secondary-background": "254 252 232",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "0 188 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "yellow",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "254 249 194",
+      "primary-text": "30 41 57",
+      "primary-accent": "253 165 213",
+      "secondary-background": "254 252 232",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "251 100 182"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "yellow",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "254 249 194",
+      "primary-text": "30 41 57",
+      "primary-accent": "218 178 255",
+      "secondary-background": "254 252 232",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "194 122 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "yellow",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "254 249 194",
+      "primary-text": "30 41 57",
+      "primary-accent": "123 241 168",
+      "secondary-background": "254 252 232",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "5 223 114"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "yellow",
+      "accent_color": "orange"
+    },
+    "output": {
+      "primary-background": "254 249 194",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 184 106",
+      "secondary-background": "254 252 232",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "255 137 4"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "orange",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "30 41 57",
+      "primary-accent": "116 212 255",
+      "secondary-background": "255 247 237",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "0 188 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "orange",
+      "accent_color": "pink"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "30 41 57",
+      "primary-accent": "253 165 213",
+      "secondary-background": "255 247 237",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "251 100 182"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "orange",
+      "accent_color": "purple"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "30 41 57",
+      "primary-accent": "218 178 255",
+      "secondary-background": "255 247 237",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "194 122 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "orange",
+      "accent_color": "green"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "30 41 57",
+      "primary-accent": "123 241 168",
+      "secondary-background": "255 247 237",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "5 223 114"
+    }
+  },
+  {
+    "input": {
+      "strategy": "pastel",
+      "primary_color": "orange",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "30 41 57",
+      "primary-accent": "255 223 32",
+      "secondary-background": "255 247 237",
+      "secondary-text": "54 65 83",
+      "secondary-accent": "253 199 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "blue",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "0 132 209",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "0 166 244"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "blue",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "21 93 252",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "43 127 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "blue",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "79 57 246",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "97 95 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "blue",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "0 153 102",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "0 188 125"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "blue",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "239 246 255",
+      "primary-text": "28 57 142",
+      "primary-accent": "0 150 137",
+      "secondary-background": "219 234 254",
+      "secondary-text": "25 60 184",
+      "secondary-accent": "0 187 167"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "indigo",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "0 132 209",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "0 166 244"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "indigo",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "21 93 252",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "43 127 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "indigo",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "79 57 246",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "97 95 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "indigo",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "0 153 102",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "0 188 125"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "indigo",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "238 242 255",
+      "primary-text": "49 44 133",
+      "primary-accent": "0 150 137",
+      "secondary-background": "224 231 255",
+      "secondary-text": "55 42 172",
+      "secondary-accent": "0 187 167"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "slate",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "0 132 209",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "0 166 244"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "slate",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "21 93 252",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "43 127 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "slate",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "79 57 246",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "97 95 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "slate",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "0 153 102",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "0 188 125"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "slate",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "248 250 252",
+      "primary-text": "15 23 43",
+      "primary-accent": "0 150 137",
+      "secondary-background": "241 245 249",
+      "secondary-text": "29 41 61",
+      "secondary-accent": "0 187 167"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "gray",
+      "accent_color": "sky"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 132 209",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 166 244"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "gray",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "21 93 252",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "43 127 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "gray",
+      "accent_color": "indigo"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "79 57 246",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "97 95 255"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "gray",
+      "accent_color": "emerald"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 153 102",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 188 125"
+    }
+  },
+  {
+    "input": {
+      "strategy": "corporate",
+      "primary_color": "gray",
+      "accent_color": "teal"
+    },
+    "output": {
+      "primary-background": "249 250 251",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 150 137",
+      "secondary-background": "243 244 246",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 187 167"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "purple",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "240 177 0",
+      "secondary-background": "233 212 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "purple",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "124 207 0",
+      "secondary-background": "233 212 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "purple",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 184 219",
+      "secondary-background": "233 212 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "purple",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "43 127 255",
+      "secondary-background": "233 212 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "purple",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "243 232 255",
+      "primary-text": "16 24 40",
+      "primary-accent": "225 42 251",
+      "secondary-background": "233 212 255",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "pink",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "16 24 40",
+      "primary-accent": "240 177 0",
+      "secondary-background": "252 206 232",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "pink",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "16 24 40",
+      "primary-accent": "124 207 0",
+      "secondary-background": "252 206 232",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "pink",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 184 219",
+      "secondary-background": "252 206 232",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "pink",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "16 24 40",
+      "primary-accent": "43 127 255",
+      "secondary-background": "252 206 232",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "pink",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "252 231 243",
+      "primary-text": "16 24 40",
+      "primary-accent": "225 42 251",
+      "secondary-background": "252 206 232",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "rose",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "255 228 230",
+      "primary-text": "16 24 40",
+      "primary-accent": "240 177 0",
+      "secondary-background": "255 204 211",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "rose",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "255 228 230",
+      "primary-text": "16 24 40",
+      "primary-accent": "124 207 0",
+      "secondary-background": "255 204 211",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "rose",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "255 228 230",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 184 219",
+      "secondary-background": "255 204 211",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "rose",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "255 228 230",
+      "primary-text": "16 24 40",
+      "primary-accent": "43 127 255",
+      "secondary-background": "255 204 211",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "rose",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "255 228 230",
+      "primary-text": "16 24 40",
+      "primary-accent": "225 42 251",
+      "secondary-background": "255 204 211",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "orange",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "16 24 40",
+      "primary-accent": "240 177 0",
+      "secondary-background": "255 214 167",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "orange",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "16 24 40",
+      "primary-accent": "124 207 0",
+      "secondary-background": "255 214 167",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "orange",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 184 219",
+      "secondary-background": "255 214 167",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "orange",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "16 24 40",
+      "primary-accent": "43 127 255",
+      "secondary-background": "255 214 167",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "orange",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "255 237 212",
+      "primary-text": "16 24 40",
+      "primary-accent": "225 42 251",
+      "secondary-background": "255 214 167",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "amber",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "254 243 198",
+      "primary-text": "16 24 40",
+      "primary-accent": "240 177 0",
+      "secondary-background": "254 230 133",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "amber",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "254 243 198",
+      "primary-text": "16 24 40",
+      "primary-accent": "124 207 0",
+      "secondary-background": "254 230 133",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "amber",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "254 243 198",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 184 219",
+      "secondary-background": "254 230 133",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "amber",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "254 243 198",
+      "primary-text": "16 24 40",
+      "primary-accent": "43 127 255",
+      "secondary-background": "254 230 133",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "amber",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "254 243 198",
+      "primary-text": "16 24 40",
+      "primary-accent": "225 42 251",
+      "secondary-background": "254 230 133",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "200 0 222"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "emerald",
+      "accent_color": "yellow"
+    },
+    "output": {
+      "primary-background": "208 250 229",
+      "primary-text": "16 24 40",
+      "primary-accent": "240 177 0",
+      "secondary-background": "164 244 207",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "208 135 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "emerald",
+      "accent_color": "lime"
+    },
+    "output": {
+      "primary-background": "208 250 229",
+      "primary-text": "16 24 40",
+      "primary-accent": "124 207 0",
+      "secondary-background": "164 244 207",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "94 165 0"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "emerald",
+      "accent_color": "cyan"
+    },
+    "output": {
+      "primary-background": "208 250 229",
+      "primary-text": "16 24 40",
+      "primary-accent": "0 184 219",
+      "secondary-background": "164 244 207",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "0 146 184"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "emerald",
+      "accent_color": "blue"
+    },
+    "output": {
+      "primary-background": "208 250 229",
+      "primary-text": "16 24 40",
+      "primary-accent": "43 127 255",
+      "secondary-background": "164 244 207",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "21 93 252"
+    }
+  },
+  {
+    "input": {
+      "strategy": "vibrant",
+      "primary_color": "emerald",
+      "accent_color": "fuchsia"
+    },
+    "output": {
+      "primary-background": "208 250 229",
+      "primary-text": "16 24 40",
+      "primary-accent": "225 42 251",
+      "secondary-background": "164 244 207",
+      "secondary-text": "30 41 57",
+      "secondary-accent": "200 0 222"
+    }
+  }
+]
